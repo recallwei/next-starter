@@ -1,1 +1,1 @@
-# next-ts-starter-template
+# Next.js TypeScript Starter Template
