@@ -1,5 +1,7 @@
+brucesong
 clsx
+gesturestart
+lucide
 preinstall
 superjson
 tailwindcss
-tanstack
